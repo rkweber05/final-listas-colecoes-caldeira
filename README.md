@@ -33,27 +33,27 @@ Este projeto tem como objetivo principal praticar o uso de listas e coleções e
 ## 🚀 Como Executar
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-2° Navegue até o diretório do projeto
+   git clone https://github.com/rkweber05/final-listas-colecoes-caldeira.git
+2. Navegue até o diretório do projeto
    cd seu-repositorio
-3° Compile o projeto
+3. Compile o projeto
    javac Main.java
-4° Execute o projeto
+4. Execute o projeto
    java Main
 
 ## 💡 Exemplo de Uso
 Ao executar o programa, você será solicitado a inserir o limite do seu cartão de crédito. Em seguida, você pode adicionar produtos ao carrinho informando o nome e o valor de cada produto. O sistema verificará se a compra pode ser realizada e atualizará o saldo disponível.
 
-Insira o limite do cartão de crédito: 500.00
-Digite o nome do produto: Livro
-Digite o valor do produto: 50.00
-Compra realizada com sucesso! Saldo restante: 450.00
-Deseja adicionar mais produtos? Digite 1 para sim ou 0 para não: 1
-Digite o nome do produto: Caneta
-Digite o valor do produto: 5.00
-Compra realizada com sucesso! Saldo restante: 445.00
-Deseja adicionar mais produtos? Digite 1 para sim ou 0 para não: 0
-Saldo final: 445.00
+- Insira o limite do cartão de crédito: 500.00
+- Digite o nome do produto: Livro
+- Digite o valor do produto: 50.00
+- Compra realizada com sucesso! Saldo restante: 450.00
+- Deseja adicionar mais produtos? Digite 1 para sim ou 0 para não: 1
+- Digite o nome do produto: Caneta
+- Digite o valor do produto: 5.00
+- Compra realizada com sucesso! Saldo restante: 445.00
+- Deseja adicionar mais produtos? Digite 1 para sim ou 0 para não: 0
+- Saldo final: 445.00
 
 ## 🤝 Contribuindo
    Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum problema, por favor, abra uma issue ou envie um pull request.
